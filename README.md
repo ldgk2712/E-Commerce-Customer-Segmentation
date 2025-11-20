@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## **E-Commerce Customer Segmentation & Business Recommendations**
 
 ### **1. Project Overview**
@@ -75,6 +74,3 @@ Focus: Data Analysis, Machine Learning, Business Intelligence
 [LinkedIn](http://linkedin.com/in/ledanggiakhanh) | [Email](mailto:ldgk2712@gmail.com)
 
 *This project is part of my research journey in applying AI to solve real-world business problems.*
-=======
-# E-Commerce-Customer-Segmentation
->>>>>>> ccbd2c86df0fd521d198d0aa161f093d07a5e09c
