@@ -1,10 +1,14 @@
 ## **E-Commerce Customer Segmentation & Business Recommendations**
 
+---
+
 ### **1. Project Overview**
 
 This project focuses on analyzing a transactional dataset from a UK-based online retailer (spanning 2010-2011). The primary objective is to optimize marketing strategies and boost sales revenue through advanced Customer Segmentation.
 
 I transformed raw transactional data into a customer-centric dataset, applied advanced Feature Engineering, and utilized K-Means Clustering combined with PCA (Principal Component Analysis) to identify distinct customer groups.
+
+---
 
 ### **2. Key Objectives**
 
@@ -14,6 +18,8 @@ I transformed raw transactional data into a customer-centric dataset, applied ad
 - **Clustering**: Segment customers using K-Means and evaluate cluster quality via Silhouette Analysis and Elbow Method.
 - **Business Insights**: Propose actionable, data-driven marketing strategies for each identified segment.
 
+---
+
 ### **3. Tech Stack**
 
 - **Language**: Python
@@ -21,6 +27,8 @@ I transformed raw transactional data into a customer-centric dataset, applied ad
 - **Visualization**: Matplotlib, Seaborn, Plotly (3D Interactive Charts)
 - **Machine Learning**: Scikit-learn (K-Means, PCA, Isolation Forest), Yellowbrick
 - **Environment**: Jupyter Notebook
+
+---
 
 ### **4. Workflow**
 
@@ -43,6 +51,8 @@ The project follows a rigorous 12-step Data Science pipeline:
 11. **Customer Profiling**: Build detailed profiles for each segment.
 12. **Business Recommendations**: Derive actionable insights and marketing strategies.
 
+---
+
 ### **5. Key Findings**
 
 The model identified 3 distinct customer clusters:
@@ -63,6 +73,8 @@ The model identified 3 distinct customer clusters:
     <img src="images/radar_cluster.png" alt="Radar Chart" width="1000"/>
 </p>
 
+---
+
 ### **6. Author**
 
 **Le Dang Gia Khanh**
@@ -74,3 +86,4 @@ Focus: Data Analysis, Machine Learning, Business Intelligence
 [LinkedIn](http://linkedin.com/in/ledanggiakhanh) | [Email](mailto:ldgk2712@gmail.com)
 
 *This project is part of my research journey in applying AI to solve real-world business problems.*
+
